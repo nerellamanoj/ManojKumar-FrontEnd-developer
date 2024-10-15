@@ -112,7 +112,7 @@ function App() {
           <div className="flex flex-col justify-between items-center bg-[#57534e] max-h-[528px] max-w-[525px] rounded-lg shadow-lg transition-transform transform hover:scale-105">
             <h1 className="text-center text-white text-xl font-semibold mt-4">AI Outfits</h1>
             <div className="bg-[#FF9999] h-1/2 w-full flex items-center justify-center rounded-t-lg">
-              <img src="https://res.cloudinary.com/prod/image/upload/c_auto,g_auto,h_940,w_880/me/smart-crop-1.jpg" alt="AI Outfits" className="h-full w-full object-cover" />
+              <img src="https://res.cloudinary.com/prod/image/upload/c_auto,g_auto,h_940,w_880/me/smart-crop-1.jpg" alt="AI Outfits" className="h-full w-full object-cover h-60" />
             </div>
           </div>
 
@@ -122,7 +122,7 @@ function App() {
               Realistic <br /> AI Avatar
             </h1>
             <div className="bg-[#FF9999] h-1/2 w-full flex items-center justify-center rounded-t-lg">
-              <img src="https://res.cloudinary.com/dahnzyxhs/image/upload/v1728995501/Artificial-Intelligence-in-Indonesia-The-current-state-and-its-opportunities_izhwy9.jpg" alt="Realistic AI Avatar" className="h-full w-full object-cover" />
+              <img src="https://res.cloudinary.com/dahnzyxhs/image/upload/v1728995501/Artificial-Intelligence-in-Indonesia-The-current-state-and-its-opportunities_izhwy9.jpg" alt="Realistic AI Avatar" className="h-full w-full object-cover h-60" />
             </div>
           </div>
 
@@ -132,7 +132,7 @@ function App() {
               Generate or write Your <br /> Scripts
             </h1>
             <div className="h-1/2 w-full flex items-center justify-center rounded-t-lg">
-              <img data-aos="fade-up" src="https://res.cloudinary.com/dahnzyxhs/image/upload/v1728995435/e9779086ee0438688bf288a4cdcc950fdc986af8-2048x1536_qjod23.jpg" alt="Scripts" className="h-full w-full object-cover" />
+              <img data-aos="fade-up" src="https://res.cloudinary.com/dahnzyxhs/image/upload/v1728995435/e9779086ee0438688bf288a4cdcc950fdc986af8-2048x1536_qjod23.jpg" alt="Scripts" className="h-full w-full object-cover h-60" />
             </div>
           </div>
 
