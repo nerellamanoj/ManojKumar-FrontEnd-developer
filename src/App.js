@@ -111,10 +111,10 @@ function App() {
           {/* First Container */}
           <div className="flex flex-col justify-between items-center bg-[#57534e] max-h-[528px] max-w-[525px] rounded-lg shadow-lg transition-transform transform hover:scale-105">
             <h1 className="text-center text-white text-xl font-semibold mt-4">AI Outfits</h1>
-            <div className="bg-[#FF9999] h-3/4 w-full flex items-center justify-center rounded-t-lg">
-  <img src="https://res.cloudinary.com/prod/image/upload/c_auto,g_auto,h_940,w_880/me/smart-crop-1.jpg" alt="AI Outfits" className="h-full w-full object-cover" />
-</div>
-
+            <div className="bg-[#FF9999] h-1/2 w-full flex items-center justify-center rounded-t-lg">
+              <img src="https://res.cloudinary.com/prod/image/upload/c_auto,g_auto,h_940,w_880/me/smart-crop-1.jpg" alt="AI Outfits" className="h-full w-full object-cover h-60" />
+            </div>
+          </div>
 
           {/* Second Container */}
           <div className="flex flex-col justify-between items-center bg-[#57534e] max-h-[528px] max-w-[525px] rounded-lg shadow-lg transition-transform transform hover:scale-105">
