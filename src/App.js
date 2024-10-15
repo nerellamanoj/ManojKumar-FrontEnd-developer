@@ -122,7 +122,7 @@ function App() {
               Realistic <br /> AI Avatar
             </h1>
             <div className="bg-[#FF9999] h-1/2 w-full flex items-center justify-center rounded-t-lg">
-              <img src="https://res.cloudinary.com/djexsyuur/image/upload/v1728930980/CJ3ScV4rAlNNF6B194Y2LYy3Yk.png_xz5t8o.png" alt="Realistic AI Avatar" className="h-full w-full object-cover" />
+              <img src="https://res.cloudinary.com/dahnzyxhs/image/upload/v1728995501/Artificial-Intelligence-in-Indonesia-The-current-state-and-its-opportunities_izhwy9.jpg" alt="Realistic AI Avatar" className="h-full w-full object-cover" />
             </div>
           </div>
 
@@ -132,7 +132,7 @@ function App() {
               Generate or write Your <br /> Scripts
             </h1>
             <div className="h-1/2 w-full flex items-center justify-center rounded-t-lg">
-              <img data-aos="fade-up" src="https://res.cloudinary.com/dahnzyxhs/video/upload/v1728983438/samples/cld-sample-video.mp4" alt="Scripts" className="h-full w-full object-cover" />
+              <img data-aos="fade-up" src="https://res.cloudinary.com/dahnzyxhs/image/upload/v1728995435/e9779086ee0438688bf288a4cdcc950fdc986af8-2048x1536_qjod23.jpg" alt="Scripts" className="h-full w-full object-cover" />
             </div>
           </div>
 
