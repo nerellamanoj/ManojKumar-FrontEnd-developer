@@ -132,7 +132,7 @@ function App() {
               Generate or write Your <br /> Scripts
             </h1>
             <div className="h-1/2 w-full flex items-center justify-center rounded-t-lg">
-              <img data-aos="fade-up" src="https://res.cloudinary.com/djexsyuur/image/upload/v1728931842/zkpXYjJGOWWUsn7WWpWoQE19dhs.png_zh5cvs.png" alt="Scripts" className="h-full w-full object-cover" />
+              <img data-aos="fade-up" src="https://res.cloudinary.com/dahnzyxhs/video/upload/v1728983438/samples/cld-sample-video.mp4" alt="Scripts" className="h-full w-full object-cover" />
             </div>
           </div>
 
