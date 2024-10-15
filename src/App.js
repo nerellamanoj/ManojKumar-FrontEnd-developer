@@ -131,7 +131,7 @@ function App() {
             <h1 className="text-center text-white text-xl font-semibold mt-4">
               Generate or write Your <br /> Scripts
             </h1>
-            <div className="h-1/2 w-full flex items-center justify-center rounded-t-lg">
+            <div className="h-3/4 w-full flex items-center justify-center rounded-t-lg">
               <img data-aos="fade-up" src="https://res.cloudinary.com/dahnzyxhs/image/upload/v1728995435/e9779086ee0438688bf288a4cdcc950fdc986af8-2048x1536_qjod23.jpg" alt="Scripts" className="h-full w-full object-cover h-60" />
             </div>
           </div>
@@ -141,7 +141,7 @@ function App() {
             <h1 className="text-center text-white text-xl font-semibold mt-4">
               AI-powered voice generator <br /> AI Avatar
             </h1>
-            <div className="h-1/2 w-full flex items-center justify-center rounded-t-lg">
+            <div className="h-3/4 w-full flex items-center justify-center rounded-t-lg">
               <img data-aos="fade-up" src="https://res.cloudinary.com/djexsyuur/image/upload/v1728931867/9qNX5HraxuRB6kIHb4x9u9jDkk.png_lhrbco.png" alt="Voice Generator" className="h-full w-full object-cover" />
             </div>
           </div>
