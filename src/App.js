@@ -65,11 +65,11 @@ function App() {
 
             <img src="https://res.cloudinary.com/djexsyuur/image/upload/v1728905188/Picture_7_ioem8e.png" className="rounded-lg" alt="Image 3" />
             <img src="https://res.cloudinary.com/djexsyuur/image/upload/v1728905188/Picture_6_rndrlg.png" className="rounded-lg" data-aos="fade-up" alt="Image 4" />
-            <img src="https://res.cloudinary.com/djexsyuur/image/upload/v1728905189/Picture_1_vprkds.png" className="rounded-lg" alt="Image 7" />
+            <img src="https://res.cloudinary.com/dahnzyxhs/image/upload/v1728983444/cld-sample-2.jpg" className="rounded-lg" alt="Image 7" />
 
             <img src="https://res.cloudinary.com/djexsyuur/image/upload/v1728905188/Picture_5_zy1zws.png" className="rounded-lg" alt="Image 5" />
             <img src="https://res.cloudinary.com/djexsyuur/image/upload/v1728905188/Picture_4_wxilnm.png" className="rounded-lg" data-aos="fade-up" alt="Image 6" />
-            <img src="https://res.cloudinary.com/djexsyuur/image/upload/v1728905188/Picture_3_o4kzrk.png" className="rounded-lg" alt="Image 9" />
+            <img src="https://res.cloudinary.com/dahnzyxhs/image/upload/v1728983444/cld-sample-3.jpg" className="rounded-lg" alt="Image 9" />
           </div>
         </div>
       </div>
@@ -89,7 +89,7 @@ function App() {
       <section className="flex justify-center items-center bg-gradient-to-r from-black via-gray-800 to-black text-white py-10">
         <div className="flex flex-col md:flex-row items-center max-w-7xl gap-10 px-5">
           <div data-aos="fade-up" data-aos-duration="1000" className="flex justify-center">
-            <img src="https://res.cloudinary.com/djexsyuur/image/upload/v1728905193/div.framer-1aa0mnf_hav2kh.png" alt="Description" className="transform transition-transform duration-300 scale-90 hover:scale-100" />
+            <img src="https://res.cloudinary.com/dahnzyxhs/image/upload/v1728983435/samples/people/smiling-man.jpg" alt="Description" className="transform transition-transform duration-300 scale-90 hover:scale-100" />
           </div>
 
           <div className="w-full md:w-1/2">
